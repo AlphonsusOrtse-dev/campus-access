@@ -1,0 +1,23 @@
+[
+  {
+    "id": "A001",
+    "fellow_id": "f001",
+    "card_type": "visitor",
+    "status": "requested",
+    "approved_by": null
+  },
+  {
+    "id": "A002",
+    "fellow_id": "f002",
+    "card_type": "student",
+    "status": "requested",
+    "approved_by": null
+  },
+  {
+    "id": "A003",
+    "fellow_id": "f003",
+    "card_type": "visitor",
+    "status": "returned",
+    "approved_by": "m01"
+  }
+]
